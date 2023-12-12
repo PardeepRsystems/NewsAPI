@@ -1,0 +1,7 @@
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.csproj.AssemblyReference.cache
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.AssemblyInfoInputs.cache
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.AssemblyInfo.cs
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.csproj.CoreCompileInputs.cache
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pradeep.kumar\source\repos\NewsApi\NewsApi\obj\Debug\net5.0\NewsApi.MvcApplicationPartsAssemblyInfo.cache
