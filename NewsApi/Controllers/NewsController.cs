@@ -29,7 +29,7 @@ namespace NewsApi.Controllers
         /// <returns> List of latest stories</returns>
 
         [HttpGet]
-        [Route("getAllStroies")]
+        [Route("getAllStories")]
         public async Task<List<NewsModel>> Stories()
         {
             List<NewsModel> stories = new List<NewsModel>();
